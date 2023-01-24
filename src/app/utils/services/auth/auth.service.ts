@@ -210,7 +210,7 @@ export class AuthService {
         break;
       case 417:
         this._translateService
-          .get('Please add a correct file type !')
+          .get('Please send a correct information !')
           .subscribe((value) => (errorMessage = value));
         break;
       case 400:

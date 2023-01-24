@@ -55,5 +55,19 @@
   "NO": "NO",
   "Version": "Version",
   "All rights reserved": "All rights reserved",
-  "Library": "Library"
+  "Library": "Library",
+  "Your username or password is incorrect !": "Your username or password is incorrect !",
+  "Please enter correct user information !": "Please enter correct user information !",
+  "Server error occurred, please try again later If the error persists, we ask you to report this to the authorities": "Server error occurred, please try again later If the error persists, we ask you to report this to the authorities",
+  "Unauthorized transaction !": "Unauthorized transaction !",
+  "Please send a correct information !": "Please send a correct information !",
+  "Your active password does not match !": "Your active password does not match !",
+  "User password does not match !": "User password does not match !",
+  "Such an user is already registered in the system !": "Such an user is already registered in the system !",
+  "No user record found in the system !": "No user record found in the system !",
+  "Author Transactions": "Author Transactions",
+  "Author List": "Author List",
+  "Author Add": "Author Add",
+  "Please enter correct author information !": "Please enter correct author information !",
+  "No author record found in the system !": "No author record found in the system !"
 }

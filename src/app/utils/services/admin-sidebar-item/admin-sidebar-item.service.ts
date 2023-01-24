@@ -34,6 +34,25 @@ export class AdminSidebarItemService {
       ],
       authorize: [Roles.Administrator],
     },
+    {
+      title: 'Author Transactions',
+      icon: 'fa fa-user',
+      linkActive: ['/admin/authors', '/admin/author/add'],
+      submenuShowHide: this.getChildUrlActiveState(['author', 'authors']),
+      submenu: [
+        {
+          title: 'Author List',
+          icon: 'fa fa-address-book',
+          link: '/admin/authors',
+        },
+        {
+          title: 'Author Add',
+          icon: 'fa fa-user-plus',
+          link: '/admin/author/add',
+        },
+      ],
+      authorize: [Roles.Administrator],
+    },
   ];
 
   getChildUrlActiveState(path: string[]) {
