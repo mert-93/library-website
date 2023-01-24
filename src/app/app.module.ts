@@ -26,6 +26,7 @@ import {
   DashboardComponent,
   LoginComponent,
   AddUserComponent,
+  AuthorListComponent,
 } from './pages';
 
 export function HttpLoaderFactory(http: HttpClient) {
@@ -48,6 +49,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     PasswordControlWindowComponent,
     LoginWindowComponent,
     PaginationComponent,
+    AuthorListComponent,
   ],
   imports: [
     BrowserModule,

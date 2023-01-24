@@ -69,5 +69,8 @@
   "Author List": "Author List",
   "Author Add": "Author Add",
   "Please enter correct author information !": "Please enter correct author information !",
-  "No author record found in the system !": "No author record found in the system !"
+  "No author record found in the system !": "No author record found in the system !",
+  "Author No": "Author No",
+  "Are you sure you want to delete the author ?": "Are you sure you want to delete the author ?",
+  "Author information was successfully deleted": "Author information was successfully deleted"
 }

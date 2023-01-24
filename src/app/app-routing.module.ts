@@ -7,6 +7,7 @@ import {
   LoginComponent,
   UserListComponent,
   AddUserComponent,
+  AuthorListComponent,
 } from './pages';
 
 const routes: Routes = [
@@ -45,6 +46,11 @@ const routes: Routes = [
         path: 'user/edit/:Id',
         component: AddUserComponent,
         data: { title: 'User Edit', icon: 'fa fa-2x fa-home' },
+      },
+      {
+        path: 'authors',
+        component: AuthorListComponent,
+        data: { title: 'Author List', icon: 'fa fa-2x fa-home' },
       },
     ],
   },

@@ -69,5 +69,8 @@
   "Author List": "Yazar Listesi",
   "Author Add": "Yazar Ekleme",
   "Please enter correct author information !": "Lütfen doğru yazar bilgilerini giriniz !",
-  "No author record found in the system !": "Sistemde yazar kaydı bulunamadı !"
+  "No author record found in the system !": "Sistemde yazar kaydı bulunamadı !",
+  "Author No": "Yazar Id",
+  "Are you sure you want to delete the author ?": "Bu yazarı silmek istediğinize eminmisiniz ?",
+  "Author information was successfully deleted": "Yazar bilgisi başarılı bir şekilde silindi"
 }
